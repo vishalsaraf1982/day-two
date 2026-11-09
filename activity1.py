@@ -1,0 +1,5 @@
+print("hello my name is aarav  ")
+print(6)
+print("It is currently 4 pm \n")
+print("hello ",6)
+print("hi im aarav ",end="*")
